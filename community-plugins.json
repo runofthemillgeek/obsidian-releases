@@ -11114,5 +11114,12 @@
     "author": "Zerkshop & Wapply",
     "description": "AutoPlay videos inside and outside notes.",
     "repo": "Wapply/obsidian-autoplay-and-loop"
+  },
+  {
+    "id": "swarnam",
+    "name": "Swarnam",
+    "author": "runofthemillgeek",
+    "description": "A no-frills web playground plugin for Obsidian.",
+    "repo": "runofthemillgeek/swarnam-obsidian"
   }
 ]
